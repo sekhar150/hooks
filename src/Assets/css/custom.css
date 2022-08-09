@@ -1,0 +1,84 @@
+.para
+{
+    text-align: justify;
+    text-indent: 250px;
+    font-style: italic;
+}
+.sekhar
+{
+    margin-left: 100px;
+  
+}
+.sekharr
+{
+    margin-left: 125px;
+}
+.sekhar1
+{
+    margin-left: 97px;
+}
+.soma
+{
+    margin-left: 180px;
+    line-height: 20px;
+    width: 10%;
+}
+.s
+{
+    margin-left: 55px;
+}
+.ss
+{
+    margin-left:130px ;
+}
+.ksr
+{
+    /* position: relative; */
+    float: left;
+    padding: 25px;
+    border: 2px solid black;
+    margin-right: 10px;
+    
+}
+/* img
+{
+    width:100%;
+    margin: auto;
+    padding: 10px;
+} */
+.active:focus
+{
+
+    background-color: black;
+
+}
+.a:hover
+{
+    background-color: black;
+}
+.active
+{
+    color:darkblue
+}
+.card-img-top
+{
+    height:250px;
+    width:60%
+}
+a
+{
+    display: flex;
+justify-content: end;    
+}
+.sekhar
+{
+    list-style: none;
+    display: flex;
+    margin-left: 600px;
+    margin-top: 20px;
+    justify-content: center;
+}
+/* .carousel-inner
+{
+    height: 1000px;
+} */

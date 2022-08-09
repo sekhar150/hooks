@@ -1,0 +1,41 @@
+.contact
+{
+    text-align: center;
+    color:blueviolet;
+    font-size: 50px;
+}
+.Name
+{
+  display: flex;
+  color:black;
+}
+.Email
+{
+    display: flex;
+    color:black;  
+}
+.Mobile
+{
+    display: flex;
+    color:black;
+}
+.Address
+{
+    display: flex;
+    color:black;   
+}
+.Address
+{
+    display: flex;
+    color:black;  
+}
+.message
+{
+    display: flex;
+    color:black; 
+}
+.sekhar
+{
+    margin: auto;
+    margin-bottom: 10px;
+}

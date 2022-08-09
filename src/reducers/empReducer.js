@@ -1,0 +1,16 @@
+import EmpAction from "../action/empAction"
+
+export default function empReducer(state=[],action)
+ {
+    switch(action.type)
+    {
+        case 'EmpAction':
+
+        return action.payload;break;
+
+        default:
+            return state
+    }
+
+  
+}
